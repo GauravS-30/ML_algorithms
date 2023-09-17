@@ -1,0 +1,1 @@
+Implementing Multivariate Linear regression from scratch using Numpy. Implementing Regularization and compared results with/without reegularization and multiple leraning rates to visualize how these hyperparameters impact the model learning and performance.
